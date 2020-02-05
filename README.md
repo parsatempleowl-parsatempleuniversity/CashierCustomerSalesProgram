@@ -12,6 +12,7 @@ A one-paragraph description of your proposed contribution.
 
 ## Background
 A URL reference to the project. Add text on how to build and run succesfully.
+
 <https://github.com/parsatempleowl-parsatempleuniversity/Cashier-Customer-Sales-Program.git>
 
 **Building**
