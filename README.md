@@ -1,4 +1,4 @@
-# Cashier-Customer-Sales-Program
+# Cashier Customer Sales Program
 Cashier Customer Sales Program
 
 ## Project Abstraction
@@ -17,7 +17,7 @@ A one-paragraph description of your proposed contribution.
 ## Background
 A URL reference to the project. Add text on how to build and run succesfully.
 
-<https://github.com/parsatempleowl-parsatempleuniversity/Cashier-Customer-Sales-Program.git>
+<https://github.com/parsatempleowl-parsatempleuniversity/CashierCustomerSalesProgram.git>
 
 **Building**
 
