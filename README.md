@@ -14,6 +14,8 @@ This test allows me to verify that the code being tested works, regardless of it
 ## Conceptual Design
 A one-paragraph description of your proposed contribution.
 
+I will be doing this project all by myself for the last 4 - 5 weeks of the semster. I will begin with implementing all of the calculator classes for this project. Then, I will implelemt the receipt class for this project. And then I will implement the customer and cashier classes for this project. Then, I will create the ItemsAndPrices class. At the end, I will be unit testing using Mockito Testing and I made a MainForUnitTest class for it. And also create the user interface using the Main class that I have created for this project.
+
 ## Background
 A URL reference to the project. Add text on how to build and run succesfully.
 
@@ -22,7 +24,7 @@ A URL reference to the project. Add text on how to build and run succesfully.
 **Building**
 - Step 1: Download and install IntelliJ IDEA Community (Download Link: <https://www.jetbrains.com/idea/download/#section=mac>)
 - Step 2: Download and install Java JDK (Download Link: <https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html>)
-- Step 3: Download the following files: junit4.11.jar, hamcrest-core-1.2.1.jar, and mockito-all-2.0.2-beta.jar
+- Step 3: Download the following files: junit4.11.jar (Download Link: <https://mvnrepository.com/artifact/junit/junit/4.11>), hamcrest-core-1.2.1.jar (Download Link: <https://mvnrepository.com/artifact/org.hamcrest/hamcrest-core/1.2.1>), and mockito-all-2.0.2-beta.jar (Download Link: <https://mvnrepository.com/artifact/org.mockito/mockito-all/2.0.2-beta>)
 - Step 4: Clone into this repository
 - Step 5: Open IntelliJ IDEA and create a new project and call it MockTest1 and click Finish (accept defaults for the first two steps)
   - Will change the name of the project to CashierCustomerSalesProgram after I started working on it for a bit of time
