@@ -20,5 +20,20 @@ A URL reference to the project. Add text on how to build and run succesfully.
 <https://github.com/parsatempleowl-parsatempleuniversity/CashierCustomerSalesProgram.git>
 
 **Building**
+- Step 1: Download and install IntelliJ IDEA Community (Download Link: <https://www.jetbrains.com/idea/download/#section=mac>)
+- Step 2: Download and install Java JDK (Download Link: <https://www.oracle.com/technetwork/java/javase/downloads/jdk13-downloads-5672538.html>)
+- Step 3: Download the following files: junit4.11.jar, hamcrest-core-1.2.1.jar, and mockito-all-2.0.2-beta.jar
+- Step 4: Clone into this repository
+- Step 5: Open IntelliJ IDEA and create a new project and call it MockTest1 and click Finish (accept defaults for the first two steps)
+  - Step 1: Click on File
+  - Step 2: Click on Project Structure
+  - Step 3: Click on Modules
+  - Step 4: Click on the + to add the downloaded jar files one by one
+  - Step 5: Click on Apply
+  - Step 6: Select 13.0.2 (java version "13.0.2") as your Module SDK
+  - Step 6: Click on Apply again
+  - Step 7: Click on Finish
+- Step 6: Drag and Drop the Project Files From The Repo Folder on your PC into the src folder of the newly created project in IntelliJ IDEA
 
 **Running** 
+- Step 1: 
