@@ -34,6 +34,10 @@ A URL reference to the project. Add text on how to build and run succesfully.
   - Step 6: Click on Apply again
   - Step 7: Click on Finish
 - Step 6: Drag and Drop the Project Files From The Repo Folder on your PC into the src folder of the newly created project in IntelliJ IDEA
+- Step 7: Click on Build
+- Step 8: Click on Build Project
 
 **Running** 
-- Step 1: 
+- Step 1: Click on the arrow to the left of src folder
+- Step 2: Right-Click on PortfolioTester file
+- Step 3: Click on Run 'PortfolioTester.main()'
