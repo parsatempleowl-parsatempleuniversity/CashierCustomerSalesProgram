@@ -4,6 +4,8 @@ Cashier Customer Sales Program
 ## Project Abstraction
 At least one paragraph description of the overall project. Include a UML use case diagram or other helpful diagram.
 
+This project consists of the following interfaces: Cashier, BasicCalculator, SalesTaxCalculator, SalesPercentOffCalculator, Customer, SalesCalculator(subtotal), ChangeCalculator, TotalSalesCalculator, and Receipt. This project also consists of the following classes: CashierImpl, BasicCalculatorImpl, SalesTaxCalculatorImpl, SaleSalesCalculatorImpl(subtotal), ChangeCalculatorImpl, ItemsAndPRices, ReceiptImpl, TotalSalesCalculatorImpl, Main, and MainForUnitTest. The cashier has access to the following parts of its system: Basic Calculator, Sales Tax Calculator, Sales Percent Off Calculator, Sales Calculator(subtotal), Change Calculator, Total Sales Calculator, Receipt, and Items And Prices. The customer has access to Receipt and Items And Prices.
+
 ## Project Relevance
 A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal.
 
