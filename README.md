@@ -4,6 +4,8 @@ Cashier Customer Sales Program
 ## Project Abstraction
 At least one paragraph description of the overall project. Include a UML use case diagram or other helpful diagram.
 
+![Use Case Image](ParsaTempleOwl_CashierCustomerSalesProgram2.png)
+
 This program can be used by people who do a lot of shopping throughout their lives. This program allows people to select items that are either on sale or not on sale and they will make sure that all calculations are done correctly based on the receipt that they received after they finished checking out. The people will verify that the percent off sales items have been applied and the included items and their prices are also correct before finshing their checkout process. This test will be used when calculating the sales tax in all of 50 US States alternatively more effective and more efficient. Also, the mock testing will be used to calculate sales at different percentages being taken off of its own set of items alternatively more effective and more efficient. I will be using the mockito package for this program. This test allows me to verify that the code being tested works, regardless of its dependencies. The theory is that if the code that I write works as designed and my dependencies work as designed, then they should work together as designed. It is used to mock interfaces so that a dummy functionality can be added to a mock interface that can be used in unit testing. 
 
 
