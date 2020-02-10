@@ -4,19 +4,21 @@ Cashier Customer Sales Program
 ## Project Abstraction
 At least one paragraph description of the overall project. Include a UML use case diagram or other helpful diagram.
 
-This project consists of the following interfaces: Cashier, BasicCalculator, SalesTaxCalculator, SalesPercentOffCalculator, Customer, SalesCalculator(subtotal), ChangeCalculator, TotalSalesCalculator, and Receipt. This project also consists of the following classes: CashierImpl, BasicCalculatorImpl, SalesTaxCalculatorImpl, SaleSalesCalculatorImpl(subtotal), ChangeCalculatorImpl, ItemsAndPRices, ReceiptImpl, TotalSalesCalculatorImpl, Main, and MainForUnitTest. The cashier has access to the following parts of its system: Basic Calculator, Sales Tax Calculator, Sales Percent Off Calculator, Sales Calculator(subtotal), Change Calculator, Total Sales Calculator, Receipt, and Items And Prices. The customer has access to Receipt and Items And Prices.
+This test allows me to verify that the code being tested works, regardless of its dependencies. The theory is that if the code that I write works as designed and my dependencies work as designed, then they should work together as designed. It is used to mock interfaces so that a dummy functionality can be added to a mock interface that can be used in unit testing.
 
 ## Project Relevance
 A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal.
 
 Goal - Mockito Testing In Java: 
 
-This test allows me to verify that the code being tested works, regardless of its dependencies. The theory is that if the code that I write works as designed and my dependencies work as designed, then they should work together as designed. It is used to mock interfaces so that a dummy functionality can be added to a mock interface that can be used in unit testing.
+What is Mock Testing in theory? Why is it important in Software Design? Include the paystation lab as an example
 
 ## Conceptual Design
 A one-paragraph description of your proposed contribution.
 
 I will be doing this project all by myself for the last 4 - 5 weeks of the semster. I will begin with implementing all of the calculator classes for this project. Then, I will implelemt the receipt class for this project. And then I will implement the customer and cashier classes for this project. Then, I will create the ItemsAndPrices class. At the end, I will be unit testing using Mockito Testing and I made a MainForUnitTest class for it. And also create the user interface using the Main class that I have created for this project.
+
+This project consists of the following interfaces: Cashier, BasicCalculator, SalesTaxCalculator, SalesPercentOffCalculator, Customer, SalesCalculator(subtotal), ChangeCalculator, TotalSalesCalculator, and Receipt. This project also consists of the following classes: CashierImpl, BasicCalculatorImpl, SalesTaxCalculatorImpl, SaleSalesCalculatorImpl(subtotal), ChangeCalculatorImpl, ItemsAndPRices, ReceiptImpl, TotalSalesCalculatorImpl, Main, and MainForUnitTest. The cashier has access to the following parts of its system: Basic Calculator, Sales Tax Calculator, Sales Percent Off Calculator, Sales Calculator(subtotal), Change Calculator, Total Sales Calculator, Receipt, and Items And Prices. The customer has access to Receipt and Items And Prices.
 
 ## Background
 A URL reference to the project. Add text on how to build and run succesfully.
