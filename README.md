@@ -33,7 +33,7 @@ A URL reference to the project. Add text on how to build and run succesfully.
   - Step 1: Click on File
   - Step 2: Click on Project Structure
   - Step 3: Click on Modules
-  - Step 4: Click on the + to add the downloaded jar files one by one
+  - Step 4: Click on the + sign to add the downloaded jar files one by one
   - Step 5: Click on Apply
   - Step 6: Select 13.0.2 (java version "13.0.2") as your Module SDK
   - Step 6: Click on Apply again
