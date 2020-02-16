@@ -19,7 +19,7 @@ Mocking is primarily used in unit testing. An object under test may have depende
 
 ## Conceptual Design
 
-![Use Case Image]()
+![Use Case Image](ParsaTempleOwl_CashierCustomerSalesProgram2.png)
 
 I will be doing this project all by myself for the last 4 - 5 weeks of the semster. I will begin with implementing all of the calculator classes for this project. Then, I will implelemt the receipt class for this project. And then I will implement the customer and cashier classes for this project. Then, I will create the ItemsAndPrices class. At the end, I will be unit testing using Mockito Testing and I made a MainForUnitTest class(I will be using mockito testing for calculating each of the state's sales tax alternatively more effective and more efficient) for it. And also create the user interface using the Main class that I have created for this project. 
 
