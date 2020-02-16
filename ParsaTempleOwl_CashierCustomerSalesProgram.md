@@ -2,7 +2,6 @@
 Cashier Customer Sales Program
 
 ## Project Abstraction
-At least one paragraph description of the overall project. Include a UML use case diagram or other helpful diagram.
 
 ![Use Case Image](ParsaTempleOwl_CashierCustomerSalesProgram1.png)
 
@@ -10,7 +9,6 @@ This program can be used by people who do a lot of shopping throughout their liv
 
 
 ## Project Relevance
-A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal.
 
 Goal - Mockito Testing In Java: 
 
@@ -20,7 +18,6 @@ Mocking is primarily used in unit testing. An object under test may have depende
 
 
 ## Conceptual Design
-A one-paragraph description of your proposed contribution.
 
 ![Use Case Image]()
 
@@ -29,7 +26,6 @@ I will be doing this project all by myself for the last 4 - 5 weeks of the semst
 This project consists of the following interfaces: Cashier, BasicCalculator, SalesTaxCalculator(mockito testing will be used heavily here), SalesPercentOffCalculator(mock testing will be used heavily here), Customer, SalesCalculator(subtotal), ChangeCalculator, TotalSalesCalculator, and Receipt. This project also consists of the following classes: CashierImpl, BasicCalculatorImpl, SalesTaxCalculatorImpl, SaleSalesCalculatorImpl(subtotal), ChangeCalculatorImpl, ItemsAndPRices, ReceiptImpl, TotalSalesCalculatorImpl(mockito testing will be used haeavily here), Main, and MainForUnitTest. The cashier has access to the following parts of its system: Basic Calculator, Sales Tax Calculator, Sales Percent Off Calculator(mock testing will be used heavily here), Sales Calculator(subtotal), Change Calculator, Total Sales Calculator, Receipt, and Items And Prices. The customer has access to Receipt and Items And Prices.
 
 ## Background
-A URL reference to the project. Add text on how to build and run succesfully.
 
 <https://github.com/parsatempleowl-parsatempleuniversity/CashierCustomerSalesProgram.git>
 
