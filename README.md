@@ -2,12 +2,14 @@
 Cashier Customer Sales Program
 
 ## Project Abstraction
+
 ![Use Case Image](ParsaTempleOwl_CashierCustomerSalesProgram1.png)
 
 This program can be used by people who do a lot of shopping throughout their lives. This program allows people to select items that are either on sale or not on sale and they will make sure that all calculations are done correctly based on the receipt that they received after they finished checking out. The people will verify that the percent off sales items have been applied and the included items and their prices are also correct before finshing their checkout process. This test will be used when calculating the sales tax in all of 50 US States alternatively more effective and more efficient. Also, the mock testing will be used to calculate sales at different percentages being taken off of its own set of items alternatively more effective and more efficient. I will be using the mockito package for this program. This test allows me to verify that the code being tested works, regardless of its dependencies. The theory is that if the code that I write works as designed and my dependencies work as designed, then they should work together as designed. It is used to mock interfaces so that a dummy functionality can be added to a mock interface that can be used in unit testing. 
 
 
 ## Project Relevance
+
 Goal - Mockito Testing In Java: 
 
 What is Mock Testing in theory? Why is it important in Software Design? Include the paystation as an example
@@ -16,7 +18,6 @@ Mocking is primarily used in unit testing. An object under test may have depende
 
 
 ## Conceptual Design
-A one-paragraph description of your proposed contribution.
 
 ![Use Case Image]()
 
@@ -25,7 +26,6 @@ I will be doing this project all by myself for the last 4 - 5 weeks of the semst
 This project consists of the following interfaces: Cashier, BasicCalculator, SalesTaxCalculator(mockito testing will be used heavily here), SalesPercentOffCalculator(mock testing will be used heavily here), Customer, SalesCalculator(subtotal), ChangeCalculator, TotalSalesCalculator, and Receipt. This project also consists of the following classes: CashierImpl, BasicCalculatorImpl, SalesTaxCalculatorImpl, SaleSalesCalculatorImpl(subtotal), ChangeCalculatorImpl, ItemsAndPRices, ReceiptImpl, TotalSalesCalculatorImpl(mockito testing will be used haeavily here), Main, and MainForUnitTest. The cashier has access to the following parts of its system: Basic Calculator, Sales Tax Calculator, Sales Percent Off Calculator(mock testing will be used heavily here), Sales Calculator(subtotal), Change Calculator, Total Sales Calculator, Receipt, and Items And Prices. The customer has access to Receipt and Items And Prices.
 
 ## Background
-A URL reference to the project. Add text on how to build and run succesfully.
 
 <https://github.com/parsatempleowl-parsatempleuniversity/CashierCustomerSalesProgram.git>
 
