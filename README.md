@@ -5,7 +5,7 @@ Cashier Customer Sales Program
 Parsa Ahmadi Nasab Emran
 
 ## Link to project board
-https://github.com/parsatempleowl-parsatempleuniversity/CashierCustomerSalesProgram/projects/1
+https://trello.com/b/EXelau6S/cashier-customer-sales-program
 
 ## Vision statement
 FOR customers and cashiers WHO interact with each other while shopping either online or in the store. THE Cashier Customer Sales Program is a text-based sales program THAT customers select items they want to purchase either on sale or not on sale while the cashier calulates the total sales prices, regualar prices, tax based on the US state the customer is in, and prints the receipt for the customer UNLIKE shopping online with a better layout and organization that makes it a bit user for the customer to shop around and interacting with the online cashier at the end of their purchase.
