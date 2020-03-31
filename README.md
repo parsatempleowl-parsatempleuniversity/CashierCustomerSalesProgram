@@ -5,6 +5,7 @@ Cashier Customer Sales Program
 Parsa Ahmadi Nasab Emran
 
 ## Link to porject board
+https://github.com/parsatempleowl-parsatempleuniversity/CashierCustomerSalesProgram/projects/1
 
 ## Vision statement
 
