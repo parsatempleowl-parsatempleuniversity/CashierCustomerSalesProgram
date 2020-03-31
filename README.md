@@ -1,6 +1,17 @@
 # Cashier Customer Sales Program
 Cashier Customer Sales Program
 
+## Team member
+Parsa Ahmadi Nasab Emran
+
+## Link to porject board
+
+## Vision statement
+
+## Personas (Cashier and Customer)
+
+## Programming language and development environment
+
 ## Project Abstraction
 
 ![Use Case Image](ParsaTempleOwl_CashierCustomerSalesProgram1.png)
