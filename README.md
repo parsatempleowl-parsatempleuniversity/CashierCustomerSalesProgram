@@ -11,7 +11,7 @@ https://trello.com/b/EXelau6S/cashier-customer-sales-program
 FOR customers and cashiers WHO interact with each other while shopping either online or in the store. THE Cashier Customer Sales Program is a text-based sales program THAT customers select items they want to purchase either on sale or not on sale while the cashier calulates the total sales prices, regualar prices, tax based on the US state the customer is in, and prints the receipt for the customer UNLIKE shopping online with a better layout and organization that makes it a bit user for the customer to shop around and interacting with the online cashier at the end of their purchase.
 
 ## Personas (Cashier and Customer)
-The cashier will calculate the sales price, regular price, sales tax based on the US state the customer is in, and prints the receipt for the customer. The customer will select the items they want buy that are either on sale or not and sale, and complete their purchase via the cashier.
+The cashier will calculate the sales price, regular price, sales tax based on the US state the customer is in, and prints the receipt for the customer. The customer will select the items they want to buy that are either on sale or not sale, and complete their purchase via the cashier.
 
 ## Programming language and development environment
 Programming language: Java
