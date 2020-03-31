@@ -12,6 +12,9 @@ https://github.com/parsatempleowl-parsatempleuniversity/CashierCustomerSalesProg
 ## Personas (Cashier and Customer)
 
 ## Programming language and development environment
+Programming language: Java
+
+Development environment: Intellj IDEA CE IDE
 
 ## Project Abstraction
 
